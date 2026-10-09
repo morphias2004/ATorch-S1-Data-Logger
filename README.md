@@ -5,7 +5,7 @@ It will provide line voltage, current, power, frequency, power factor and kilowa
 
 <img width="1009" height="1423" alt="image" src="https://github.com/user-attachments/assets/6968fd10-357d-4a12-accd-61f90fbee10f" />
 
-##Installation
+## Installation
 
 1. Download the 'ATorch S1 Data Logger.zip' file
 2. Extract it to the desired install location
