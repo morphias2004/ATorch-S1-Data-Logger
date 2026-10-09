@@ -9,7 +9,7 @@ It will provide line voltage, current, power, frequency, power factor and kilowa
 If you want to log the data, it will write the readings out to a unique CSV file.
 
 
-<img width="507" height="709" alt="image" src="https://github.com/user-attachments/assets/7d430d2b-49db-47d3-8816-91e47ce91f48" />
+<img width="507" height="707" alt="image" src="https://github.com/user-attachments/assets/73912c9b-d082-4b10-9675-8de60efbf16b" />
 
 
 
