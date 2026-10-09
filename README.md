@@ -3,7 +3,7 @@ This leverages the Tuya Developer Cloud, tinyTuya https://github.com/jasonacox/t
 
 It will provide line voltage, current, power, frequency, power factor and kilowatt hours at 1 second intervals.
 
-If you want to log the data, it will write the readings out to a CSV file.
+If you want to log the data, it will write the readings out to a unique CSV file.
 
 
 <img width="507" height="709" alt="image" src="https://github.com/user-attachments/assets/7d430d2b-49db-47d3-8816-91e47ce91f48" />
