@@ -1,9 +1,0 @@
-1. Copy the root folder to where you would like to keep the logger. Probably just in your 'Documents' folder.
-
-2. Follow the instructions in the 'Tuya IoT API Setup' PDF.
-
-3. Right click on 'install.bat' and select 'Run as administrator'
-
-4. An 'ATorch S1 Data Logger' shortcut will be created in the root of the directory and on your Desktop.
-
-5. Double click on the shortcut and enter the IP address of you device, the API key and Secret from Tuya Cloud and press 'Conect'. You should see the live data from your device. You can click on 'Start Logging' to have the data recorded to a CSV file, which is stored in the LOGS folder in the root of the installation folder.
