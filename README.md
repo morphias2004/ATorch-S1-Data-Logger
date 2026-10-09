@@ -11,4 +11,6 @@ It will provide line voltage, current, power, frequency, power factor and kilowa
 2. Extract it to the desired install location
 3. Follow the instructions in the 'READ ME.txt' file
 
-Enjoy!
+When you press 'Connect' in the GUI, it will automatically poll the Tuya Cloud for the devices encryption keys, which roll regularly, run the tinyTuya 'scan' and 'wizard', which will then create/update the tinytuya.json, devices.json and snapshot.json files These will be created in the root directory.
+
+## Enjoy!
